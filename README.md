@@ -12,7 +12,7 @@ npm i -g generator-context-store
 yo generator-context-store
 ```
 output is directory relative to where cli command is ran
-EX with prefix of 'foo'
+- EX with prefix of 'foo'
 ```bash
 fooStore
     ├── FooStoreProvider.tsx

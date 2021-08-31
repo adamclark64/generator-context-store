@@ -1,8 +1,5 @@
 ## quickly scaffold out a redux like directory store using the react context api
 
-
-![previewgif](readme.gif)
-
 ```bash
 npm install -g yo
 npm i -g generator-context-store
@@ -11,6 +8,9 @@ npm i -g generator-context-store
 ```bash
 yo generator-context-store
 ```
+
+![previewgif](readme.gif)
+
 output is directory relative to where cli command is ran
 - EX with prefix of 'foo'
 ```bash

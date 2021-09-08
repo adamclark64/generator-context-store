@@ -1,6 +1,6 @@
 {
   "name": "generator-context-store",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "description": "scaffold a redux like store with context api",
   "author": {
     "name": "adamclark64",

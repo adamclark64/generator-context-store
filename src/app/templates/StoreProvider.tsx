@@ -1,5 +1,5 @@
 import React from 'react';
-import { reducer, StoreContext, initialState, StoreProvider } from '.';
+import { reducer, StoreContext, initialState, <%= capitalizedName %>StoreProvider } from '.';
 
 interface Props {
     children: React.ReactChild;
